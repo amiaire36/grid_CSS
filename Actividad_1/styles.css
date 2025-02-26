@@ -1,0 +1,23 @@
+.container{
+    font-size:40px;
+    background-color: lightgray;
+    display: grid;
+    width: 100%;
+}
+
+.d1{
+    background-color: tomato;
+}
+.d2{
+    background-color: aqua;
+}
+.d3{
+    background-color: blueviolet;
+}
+.d4{
+    background-color: chocolate;
+}
+.d5{
+    background-color:cadetblue;
+}
+
