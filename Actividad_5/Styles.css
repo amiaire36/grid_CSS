@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    column-gap: 20px;
+}
+.d1{
+background-color: tomato;
+}
+.d2{
+background-color: aqua;
+}
+.d3{
+background-color: blueviolet;
+}
+.d4{
+background-color: chocolate;
+}
+.d5{
+background-color:cadetblue;
+}
